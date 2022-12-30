@@ -1,0 +1,22 @@
+Question: what is python 
+Answer: Python is a programming language.
+Question: what is chemistry 
+Answer: Chemistry is the study of the composition, structure, properties, and reactions of matter.
+Question: what is nn? 
+Answer: There is no one-size-fits-all answer to this question, as the best neural network architecture for a given problem will vary depending on the specifics of the problem. However, some common architectures for neural networks include fully connected networks, convolutional neural networks, and recurrent neural networks.
+Question: what is kinematics 
+Answer: Kinematics is the branch of mechanics that deals with the motion of bodies without regard to the forces that cause the motion.
+Question: what is dipole 
+Answer: A dipole is a pair of equal and opposite electric charges, or a pair of equal and opposite magnetic poles.
+Question: what is the smallest unit of charge? 
+Answer: The smallest unit of charge is the electron.
+Question: what is the value of electron 
+Answer: The value of an electron is -1.602 x 10-19 coulombs.
+Question: what is coulombs law 
+Answer: Coulombs law states that the force between two electric charges is proportional to the product of the charges and inversely proportional to the square of the distance between them.
+Question: Two angles of a triangle measure 15° and 85 °. What is the measure for the third angle? 
+Answer: The third angle of the triangle must measure 90° in order for the triangle to be a valid shape. This is because the sum of the angles in a triangle must always equal 180°.
+Question: Two angles of a triangle measure 15 and 85. What is the measure for the third angle? 
+Answer: The third angle of the triangle must measure 90° in order for the triangle to be a valid shape. This is because the sum of the angles in a triangle must always equal 180°.
+Question: Simplify: (4 – 5) – (13 – 18 + 2). 
+Answer: The answer is -14.
